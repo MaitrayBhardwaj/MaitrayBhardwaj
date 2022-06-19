@@ -1,8 +1,10 @@
 <h2>Hi 👋, I'm Maitray Bhardwaj.</h2>
 
+- 🔭 I’m currently working on **OrderIn, 50Days50Projects**
+
 - 🌱 I’m currently learning **ReactJS, Machine Learning**
 
-- 💬 Ask me about **C++, JS, Python**
+- 💬 Ask me about **C++, JS, Python, Web Development**
 
 - 📫 Reach me out on **maitraybhardwaj@gmail.com**
 
