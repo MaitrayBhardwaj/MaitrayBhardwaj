@@ -13,8 +13,11 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maitraybhardwaj&show_icons=true&locale=en&layout=compact" alt="maitraybhardwaj" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maitraybhardwaj&show_icons=true&locale=en" alt="maitraybhardwaj" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maitraybhardwaj&" alt="maitraybhardwaj" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=maitraybhardwaj&show_icons=true&locale=en" alt="maitraybhardwaj" /></p>
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maitraybhardwaj&" alt="maitraybhardwaj" /></p>
+
 
 <p align="center">&nbsp; <img src="https://komarev.com/ghpvc/?username=maitraybhardwaj&label=Profile%20views&color=0e75b6&style=flat" alt="maitraybhardwaj" /> </p>
