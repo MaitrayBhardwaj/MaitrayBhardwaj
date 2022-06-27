@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **OrderIn, 50Days50Projects**
 
-- 🌱 I’m currently learning **ReactJS, Machine Learning**
+- 🌱 I’m currently learning **ReactJS**
 
 - 💬 Ask me about **C++, JS, Python, Web Development**
 
