@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maitray Bhardwaj</h1>
 <h3 align="center">Welcome to my profile</h3>
 
-- 🔭 I’m currently working on [OrderIn](https://github.com/MaitrayBhardwaj/orderin)
+- 🔭 I’m currently working on [Movie-App](https://github.com/MaitrayBhardwaj/movie-app)
 
 - 🌱 I’m currently learning **lots of things :D**
 
