@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maitray Bhardwaj</h1>
 <h3 align="center">Welcome to my profile</h3>
 
-- 🔭 I’m currently working on [Movie-App](https://github.com/MaitrayBhardwaj/movie-app)
+- 🔭 I’m currently working on [Event-Tracker](https://github.com/MaitrayBhardwaj/event-tracker)
 
 - 🌱 I’m currently learning **lots of things :D**
 
@@ -22,7 +22,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maitraybhardwaj&show_icons=true&locale=en" alt="maitraybhardwaj" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maitraybhardwaj" alt="maitraybhardwaj" /></a> </p>
+<p align="left"> [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)</p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maitraybhardwaj&" alt="maitraybhardwaj" /></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=maitraybhardwaj&label=Profile%20views&color=0e75b6&style=flat" alt="maitraybhardwaj" /> </p>
