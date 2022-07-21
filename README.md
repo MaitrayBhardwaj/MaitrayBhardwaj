@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maitray Bhardwaj</h1>
 <h3 align="center">Welcome to my profile</h3>
 
-- 🔭 I’m currently working on [Event-Tracker](https://github.com/MaitrayBhardwaj/event-tracker)
+- 🔭 I’m currently working on retouching my previous works.
 
 - 🌱 I’m currently learning **lots of things :D**
 
