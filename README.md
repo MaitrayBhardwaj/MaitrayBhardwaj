@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on retouching my previous works.
 
-- 🌱 I’m currently learning **lots of things :D**
+- 🌱 I’m currently learning **Typescript**.
 
 - 💬 Ask me about **WebDev, Python, C++**
 
