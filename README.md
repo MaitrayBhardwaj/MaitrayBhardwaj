@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Maitray Bhardwaj</h1>
 <h3 align="center">Welcome to my profile</h3>
 
-- 🔭 I’m currently working on retouching my previous works.
+- 🌱 I’m currently doing Leetcode problems.
 
-- 🌱 I’m currently learning **Typescript**.
-
-- 💬 Ask me about **WebDev, Python, C++**
+- 💬 Ask me about **WebDev, C++, Python**.
 
 - 📫 How to reach me **maitraybhardwaj@gmail.com**
 
