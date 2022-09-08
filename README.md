@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maitray Bhardwaj</h1>
 <h3 align="center">Welcome to my profile</h3>
 
-- 🌱 I’m currently taking a certificate course for MongoDB.
-
 - 💬 Ask me about **WebDev, C++, Python**.
 
 - 📫 How to reach me **maitraybhardwaj@gmail.com**
