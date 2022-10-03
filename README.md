@@ -28,11 +28,11 @@
 <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maitraybhardwaj&show_icons=true&locale=en&layout=compact" alt="maitraybhardwaj" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maitraybhardwaj&show_icons=true&locale=en&layout=compact&theme=monokai" alt="maitraybhardwaj" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maitraybhardwaj&show_icons=true&locale=en" alt="maitraybhardwaj" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maitraybhardwaj&show_icons=true&locale=en&theme=monokai" alt="maitraybhardwaj" /></p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MaitrayBhardwaj&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maitraybhardwaj&" alt="maitraybhardwaj" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maitraybhardwaj&theme=monokai" alt="maitraybhardwaj" /></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=maitraybhardwaj&label=Profile%20views&color=0e75b6&style=flat" alt="maitraybhardwaj" /> </p>
