@@ -14,6 +14,7 @@
 <p align="left">
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="http://ibthemespro.com/docs/beny/img/side-nav/cmm4.png" alt="react" width="40" height="40"/></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
+ <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"><img src="https://cdn.cdnlogo.com/logos/t/96/typescript.svg" alt="typescript" width="40" height="40" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://www.nsoftware.com/ui/img/platforms/nodejs.svg" alt="nodejs" width="40" height="40"/></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/480/mongodb.png" alt="mongodb" width="40" height="40"/></a>
