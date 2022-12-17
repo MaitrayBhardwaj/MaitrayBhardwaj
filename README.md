@@ -29,9 +29,6 @@
 <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MaitrayBhardwaj&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
-<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaitrayBhardwaj&theme=monokai)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maitraybhardwaj&theme=monokai" alt="maitraybhardwaj" /></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=maitraybhardwaj&label=Profile%20views&color=0e75b6&style=flat" alt="maitraybhardwaj" /> </p>
